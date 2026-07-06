@@ -1,0 +1,53 @@
+# 🚀 AI Developer Journey 2026
+
+Welcome to my AI Developer learning journey.
+
+## Goal
+Transition from Automation Developer to AI/ML Developer by building projects, mastering machine learning, deep learning, and deploying AI applications.
+
+---
+
+## Learning Roadmap
+
+### Andrew Ng - Machine Learning Specialization
+
+- ✅ Week 1: Linear Regression
+  - Learned:
+    - Linear Regression
+    - Cost Function
+    - Gradient Descent
+  - Project:
+    - House Price Prediction using Linear Regression (from scratch)
+    - Repository: house-price-prediction-linear-regression
+
+- ⏳ Week 2: Multiple Linear Regression
+
+- ⏳ Week 3: Logistic Regression
+
+---
+
+## Projects
+
+| Project | Status |
+|---------|--------|
+| House Price Prediction | ✅ Completed |
+| Customer Churn Prediction | ⏳ Planned |
+| Loan Approval Prediction | ⏳ Planned |
+
+---
+
+## Skills Acquired
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning
+- Linear Regression
+- Gradient Descent
+
+---
+
+## Current Progress
+
+Course Progress: 1 / 24 Weeks
+Projects Completed: 1
