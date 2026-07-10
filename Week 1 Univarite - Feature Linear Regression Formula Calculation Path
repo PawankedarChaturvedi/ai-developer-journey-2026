@@ -1,0 +1,48 @@
+Computing Best Fit Line Path
+
+Start:
+w = 1
+b = 1
+        ↓
+
+Compute predictions:
+ŷ = wx + b
+
+        ↓
+
+Calculate Cost:
+J(w,b) = (1/2m) Σ(ŷ(i) - y(i))²
+
+        ↓
+
+Calculate gradients:
+dw = (1/m) Σ(ŷ(i) - y(i))x(i)
+
+db = (1/m) Σ(ŷ(i) - y(i))
+
+        ↓
+
+Update parameters:
+w = w - αdw
+b = b - αdb
+
+        ↓
+
+New w and b obtained
+
+        ↓
+
+Compute new predictions:
+ŷ = wx + b
+
+        ↓
+
+Calculate new Cost
+
+        ↓
+
+Repeat until cost is minimum
+
+
+
+
